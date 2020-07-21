@@ -820,7 +820,7 @@ Table of Contents
    * [redbooth.com](https://redbooth.com) — P2P file syncing, free for up to 2 users
    * [shrinkray.io](https://shrinkray.io/) — Free image optimization of GitHub repos
    * [tinypng.com](https://tinypng.com/) — API to compress and resize PNG and JPEG images, offers 500 compressions for free each month
-   * [transloadit.com](https://transloadit.com/) — Handles file uploads and encoding of video, audio, images, documents. Free for Open source, charities, and students via the GitHub Student Developer Pack. Commercial applications get 2 GB free for test driving
+   * [transloadit.com](https://transloadit.com/) — Handles file uploads and encoding of video, audio, images, documents. Free for Open source, charities, and students via the GitHub Student Developer Pack. Commercial applications get 5 GB/month free
 
 ## Design and UI
 
